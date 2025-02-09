@@ -24,5 +24,5 @@ step 5: Open a Browser and enter
 
     http://127.0.0.1:5001
 
-step 6: Register the first user.(Registered users will be encrypted and stored in Instances folder.)
+step 6: Register the first user.(Registered users will be encrypted and stored in Instances folder)
 
