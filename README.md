@@ -28,7 +28,7 @@ step 6: Register the first user.(Registered users will be encrypted and stored i
 
 ### 📌 **Author**  
 👤 **Neeraj S**  
-🔗 [GitHub](https://github.com/NRJ900) 
+🔗 [GitHub:NRJ900](https://github.com/NRJ900) 
   
 👤 **Aditya**  
-🔗 [GitHub](https://github.com/aditya3118) 
+🔗 [GitHub:Aditya3118](https://github.com/aditya3118) 
