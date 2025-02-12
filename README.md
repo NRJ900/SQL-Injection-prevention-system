@@ -26,3 +26,9 @@ step 5: Open a Browser and enter
 
 step 6: Register the first user.(Registered users will be encrypted and stored in Instances folder)
 
+### 📌 **Author**  
+👤 **Neeraj S**  
+🔗 [GitHub](https://github.com/NRJ900) 
+  
+👤 **Aditya**  
+🔗 [GitHub](https://github.com/aditya3118) 
